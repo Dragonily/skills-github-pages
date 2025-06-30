@@ -2,4 +2,4 @@
 title: Welcome to my blog!
 ---
 
-123456
+123456bgm
